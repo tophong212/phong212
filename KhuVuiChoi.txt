@@ -1,0 +1,8 @@
+KV002#Khu Thuỷ cung#Tầng 1#400m#7h30#11h30
+KV001#Nhà Ma#Tầng 3#350m#7h30#21h30
+KV003#Rạp Phim 3D#Tầng 1#100m#8h30#23h
+KV005#Sân Trượt Băng#Tầng 2#250m#8h00#21h30
+KV002#Trò Điện Tử#Tầng 5#100m#7h00#22h00
+KV001#Nhà Ma#Tầng 3#350m#7h30#23h00
+KV003#Rạp Phim 3D#Tầng 1#100m#8h30#23h00
+KV005#Sân TRượt băng#Tầng 5#250m#7h30#22h00
